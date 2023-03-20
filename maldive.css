@@ -71,7 +71,7 @@ iframe {
 }
 .card1 .image1 {
     grid-area: image;
-    background-image: linear-gradient(#fff0 0%,#fff0 70%,#1d1d1d 100%) ,url(imge/mal3.jpg);
+    background-image: linear-gradient(#fff0 0%,#fff0 70%,#1d1d1d 100%) ,url(mal3.jpg);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -93,7 +93,7 @@ iframe {
 }
 .card2 .image2 {
     grid-area: image;
-    background-image:linear-gradient(#fff0 0%,#fff0 70%,#1d1d1d 100%) , url(imge/mal4.jpg);
+    background-image:linear-gradient(#fff0 0%,#fff0 70%,#1d1d1d 100%) , url(mal4.jpg);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
@@ -145,7 +145,7 @@ iframe {
 }
 .card3 .image3 {
     grid-area: image;
-    background-image: linear-gradient(#fff0 0%,#fff0 70%,#1d1d1d 100%) ,url(imge/mal2.1.jpg);
+    background-image: linear-gradient(#fff0 0%,#fff0 70%,#1d1d1d 100%) ,url(mal2.1.jpg);
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     background-size: cover;
